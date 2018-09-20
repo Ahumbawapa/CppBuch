@@ -41,7 +41,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="bsp003_overflow.cpp|bsp002_intlimits.cpp|bsp001_Summe.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="bsp006_ungenau.cpp|bsp005_genauigkeiten.cpp|bsp0005_genauigkeiten.cpp|bsp004_floatlimits.cpp|bsp003a_iniitialisierungen.cpp|bsp003_overflow.cpp|bsp002_intlimits.cpp|bsp001_Summe.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -87,7 +87,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="bsp003_overflow.cpp|bsp002_intlimits.cpp|bsp001_Summe.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="bsp006_ungenau.cpp|bsp005_genauigkeiten.cpp|bsp0005_genauigkeiten.cpp|bsp004_floatlimits.cpp|bsp003a_iniitialisierungen.cpp|bsp003_overflow.cpp|bsp002_intlimits.cpp|bsp001_Summe.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
